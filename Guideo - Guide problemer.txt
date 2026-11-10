@@ -1,0 +1,7 @@
+Guideo - Guide problemer
+''Prøv selv''??? - Tænker at ændre teksten til ''Prøv selv''
+Ring til en person - Billede problemer ved trin 5
+Tag telefonen - Alle trin og billede problemer
+Send en besked - Alle trin og viser det samme billede
+Send et billede - Trin 5, forkert billede
+
